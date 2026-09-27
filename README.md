@@ -134,8 +134,11 @@ Start → ReadHRData → PrepareStats → ClaudeAnalysis → FormatReport → Se
 ## Файлы проекта
 
 - `workflow.json` — экспорт workflow из n8n Cloud.
-- `images/` — скриншоты workflow, письма, данных.
-
+- `images/` — скриншоты workflow, письма, данных, диаграммы сегментного анализа.
+- `business-analysis/` — документы бизнес-анализа:
+  - [Формулировка проблемы](business-analysis/problem-statement.md)
+  - [Аналитический отчёт с рекомендациями](business-analysis/analysis-report.md)
+    
 ## Автор
 
 **Сергей Гречкин**
