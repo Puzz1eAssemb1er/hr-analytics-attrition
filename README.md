@@ -63,7 +63,7 @@ Start → ReadHRData → PrepareStats → ClaudeAnalysis → FormatReport → Se
 
 ### Визуализация workflow
 
-*(Скриншот будет добавлен после оформления)*
+![Схема workflow в n8n](images/01-workflow.png)
 
 ## Технический стек
 
