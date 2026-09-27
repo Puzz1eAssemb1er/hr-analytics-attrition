@@ -138,6 +138,7 @@ Start → ReadHRData → PrepareStats → ClaudeAnalysis → FormatReport → Se
 - `business-analysis/` — документы бизнес-анализа:
   - [Формулировка проблемы](business-analysis/problem-statement.md)
   - [Аналитический отчёт с рекомендациями](business-analysis/analysis-report.md)
+  - [Требования и пользовательские истории](business-analysis/requirements.md)
     
 ## Автор
 
